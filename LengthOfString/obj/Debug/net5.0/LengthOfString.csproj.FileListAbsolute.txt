@@ -1,0 +1,16 @@
+C:\Users\adamo\RiderProjects\CSharpStrings\LengthOfString\bin\Debug\net5.0\LengthOfString.exe
+C:\Users\adamo\RiderProjects\CSharpStrings\LengthOfString\bin\Debug\net5.0\LengthOfString.deps.json
+C:\Users\adamo\RiderProjects\CSharpStrings\LengthOfString\bin\Debug\net5.0\LengthOfString.runtimeconfig.json
+C:\Users\adamo\RiderProjects\CSharpStrings\LengthOfString\bin\Debug\net5.0\LengthOfString.runtimeconfig.dev.json
+C:\Users\adamo\RiderProjects\CSharpStrings\LengthOfString\bin\Debug\net5.0\LengthOfString.dll
+C:\Users\adamo\RiderProjects\CSharpStrings\LengthOfString\bin\Debug\net5.0\ref\LengthOfString.dll
+C:\Users\adamo\RiderProjects\CSharpStrings\LengthOfString\bin\Debug\net5.0\LengthOfString.pdb
+C:\Users\adamo\RiderProjects\CSharpStrings\LengthOfString\obj\Debug\net5.0\LengthOfString.csproj.AssemblyReference.cache
+C:\Users\adamo\RiderProjects\CSharpStrings\LengthOfString\obj\Debug\net5.0\LengthOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamo\RiderProjects\CSharpStrings\LengthOfString\obj\Debug\net5.0\LengthOfString.AssemblyInfoInputs.cache
+C:\Users\adamo\RiderProjects\CSharpStrings\LengthOfString\obj\Debug\net5.0\LengthOfString.AssemblyInfo.cs
+C:\Users\adamo\RiderProjects\CSharpStrings\LengthOfString\obj\Debug\net5.0\LengthOfString.csproj.CoreCompileInputs.cache
+C:\Users\adamo\RiderProjects\CSharpStrings\LengthOfString\obj\Debug\net5.0\LengthOfString.dll
+C:\Users\adamo\RiderProjects\CSharpStrings\LengthOfString\obj\Debug\net5.0\ref\LengthOfString.dll
+C:\Users\adamo\RiderProjects\CSharpStrings\LengthOfString\obj\Debug\net5.0\LengthOfString.pdb
+C:\Users\adamo\RiderProjects\CSharpStrings\LengthOfString\obj\Debug\net5.0\LengthOfString.genruntimeconfig.cache

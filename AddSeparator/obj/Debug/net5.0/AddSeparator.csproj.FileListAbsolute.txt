@@ -1,0 +1,16 @@
+C:\Users\adamo\RiderProjects\CSharpStrings\AddSeparator\bin\Debug\net5.0\AddSeparator.exe
+C:\Users\adamo\RiderProjects\CSharpStrings\AddSeparator\bin\Debug\net5.0\AddSeparator.deps.json
+C:\Users\adamo\RiderProjects\CSharpStrings\AddSeparator\bin\Debug\net5.0\AddSeparator.runtimeconfig.json
+C:\Users\adamo\RiderProjects\CSharpStrings\AddSeparator\bin\Debug\net5.0\AddSeparator.runtimeconfig.dev.json
+C:\Users\adamo\RiderProjects\CSharpStrings\AddSeparator\bin\Debug\net5.0\AddSeparator.dll
+C:\Users\adamo\RiderProjects\CSharpStrings\AddSeparator\bin\Debug\net5.0\ref\AddSeparator.dll
+C:\Users\adamo\RiderProjects\CSharpStrings\AddSeparator\bin\Debug\net5.0\AddSeparator.pdb
+C:\Users\adamo\RiderProjects\CSharpStrings\AddSeparator\obj\Debug\net5.0\AddSeparator.csproj.AssemblyReference.cache
+C:\Users\adamo\RiderProjects\CSharpStrings\AddSeparator\obj\Debug\net5.0\AddSeparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamo\RiderProjects\CSharpStrings\AddSeparator\obj\Debug\net5.0\AddSeparator.AssemblyInfoInputs.cache
+C:\Users\adamo\RiderProjects\CSharpStrings\AddSeparator\obj\Debug\net5.0\AddSeparator.AssemblyInfo.cs
+C:\Users\adamo\RiderProjects\CSharpStrings\AddSeparator\obj\Debug\net5.0\AddSeparator.csproj.CoreCompileInputs.cache
+C:\Users\adamo\RiderProjects\CSharpStrings\AddSeparator\obj\Debug\net5.0\AddSeparator.dll
+C:\Users\adamo\RiderProjects\CSharpStrings\AddSeparator\obj\Debug\net5.0\ref\AddSeparator.dll
+C:\Users\adamo\RiderProjects\CSharpStrings\AddSeparator\obj\Debug\net5.0\AddSeparator.pdb
+C:\Users\adamo\RiderProjects\CSharpStrings\AddSeparator\obj\Debug\net5.0\AddSeparator.genruntimeconfig.cache
